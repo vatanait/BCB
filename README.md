@@ -19,7 +19,7 @@
         }
 
         body {
-            background: #f5f7fb;
+            background: green;
             color: #1f2937;
             line-height: 1.7;
         }
