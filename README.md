@@ -733,8 +733,8 @@
             <div class="logo-icon">L</div>
 
             <div>
-                <h1>ធនាគារលោកឈា</h1>
-                <small>Lok Chhea Bank</small>
+                <h1>ធនាគារ ប៊ីស៊ីប៊ី</h1>
+                <small>BCB Bank</small>
             </div>
         </div>
 
@@ -746,6 +746,7 @@
                 <li><a href="#digital">Digital Banking</a></li>
                 <li><a href="#news">ព័ត៌មាន</a></li>
                 <li><a href="#contact">ទំនាក់ទំនង</a></li>
+                <li><a href="#Job">ទំនាក់ទំនង</a></li>
             </ul>
         </nav>
 
