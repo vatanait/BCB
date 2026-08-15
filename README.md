@@ -112,7 +112,7 @@
         }
 
         .hero-container {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: auto;
             padding: 60px 20px;
             display: grid;
