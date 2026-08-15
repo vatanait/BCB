@@ -51,7 +51,7 @@
         }
 
         .logo-icon {
-            width: 48px;
+            width: 70px;
             height: 48px;
             border-radius: 50%;
             background: #d6a84f;
