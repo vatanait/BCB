@@ -1253,7 +1253,7 @@
                 <div>
                     <strong>✉️ Email</strong>
                     <p>
-                        info@lokchheabank.com
+                        info@bcbbank.com
                     </p>
                 </div>
 
@@ -1386,7 +1386,7 @@
 
     <div class="copyright">
 
-        © 2026 ធនាគារលោកឈា | Lok Chhea Bank.
+        © 2026 ធនាគារ ប៊ីស៊ីប៊ី  | BCB Bank.
         All Rights Reserved.
 
     </div>
