@@ -795,14 +795,14 @@
 
         <div class="bank-card">
 
-            <h3>LOK CHHEA BANK</h3>
+            <h3>BCB BANK</h3>
 
             <div class="card-number">
                 5321  ****  ****  8899
             </div>
 
             <div class="card-bottom">
-                <span>LOK CHHEA</span>
+                <span>BCB Bank</span>
                 <strong>VISA</strong>
             </div>
 
@@ -1137,7 +1137,7 @@
         <h2>ព័ត៌មាន និងប្រូម៉ូសិន</h2>
 
         <p>
-            ព័ត៌មានថ្មីៗពីធនាគារលោកឈា
+            ព័ត៌មានថ្មីៗពីរធនាគារ ប៊ីស៊ីប៊ី
         </p>
 
     </div>
@@ -1329,7 +1329,7 @@
 
         <div>
 
-            <h3>ធនាគារលោកឈា</h3>
+            <h3>ធនាគារ ប៊ីស៊ីប៊ី</h3>
 
             <p>
                 ដៃគូហិរញ្ញវត្ថុដែលអ្នកអាចទុកចិត្តបាន។
