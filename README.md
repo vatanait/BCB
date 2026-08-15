@@ -80,7 +80,7 @@
         nav a {
             color: white;
             text-decoration: none;
-            font-size: 15px;
+            font-size: 30px;
             transition: .3s;
         }
 
