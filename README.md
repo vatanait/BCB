@@ -91,7 +91,7 @@
         .login-btn {
             background: #d6a84f;
             color: #063b2b;
-            padding: 10px 18px;
+            padding: 8px 16px;
             border-radius: 7px;
             text-decoration: none;
             font-weight: bold;
