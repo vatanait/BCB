@@ -19,7 +19,7 @@
         }
 
         body {
-            background: green;
+            background: orange;
             color: #1f2937;
             line-height: 1.7;
         }
