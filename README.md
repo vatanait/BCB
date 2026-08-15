@@ -59,7 +59,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 25px;
+            font-size: 12px;
             font-weight: bold;
         }
 
