@@ -51,7 +51,7 @@
         }
 
         .logo-icon {
-            width: 70px;
+            width: 50px;
             height: 48px;
             border-radius: 50%;
             background: #d6a84f;
@@ -59,7 +59,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 12px;
+            font-size: 30px;
             font-weight: bold;
         }
 
