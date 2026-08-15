@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>ធនាគារលោកឈា | Lok Chhea Bank</title>
+    <title>ធនាគារ​ ប៊ី ស៊ី ប៊ី | BCB Bank</title>
 
     <style>
         * {
